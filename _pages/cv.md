@@ -4,12 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
+cv_pdf: cv.pdf
 ---
 
-<p>
-  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}"
-     target="_blank"
-     rel="noopener">
-    Open CV (PDF)
-  </a>
-</p>
+<p>You can download my CV <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}">here</a>.</p>
