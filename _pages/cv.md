@@ -6,10 +6,9 @@ nav: true
 nav_order: 3
 ---
 
-<p>
-  <a href="{{ '/assets/pdf/reichlin_cv.pdf' | relative_url }}"
-     target="_blank"
-     rel="noopener">
-    Open CV (PDF)
-  </a>
-</p>
+<script>
+  // When this page loads, open the CV PDF in a new tab
+  if (typeof window !== 'undefined') {
+    window.open('{{ "/assets/pdf/cv.pdf" | relative_url }}', '_blank', 'noopener');
+  }
+</script>
