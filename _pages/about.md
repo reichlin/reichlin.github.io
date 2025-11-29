@@ -19,8 +19,9 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a last year Ph.D. student in the Robotics, Perception and Learning division of the Royal Institute of Technology (KTH) in Stockholm, Sweden.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work focuses on representation learning from data of interactions and its properties. Applications include: reinforcement learning, multimodal representations, meta-learning and Bayesian neural networks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For more information check out my Ph.D. thesis (work in progress):
+[Download Thesis (PDF)]({{ "/assets/pdf/thesis.pdf" | relative_url }}).
