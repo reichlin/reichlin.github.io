@@ -6,6 +6,10 @@ nav: true
 nav_order: 3
 ---
 
-<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/cv.pdf' | relative_url }}">
-<p>If you are not redirected automatically, 
-<a href="{{ '/assets/pdf/cv.pdf' | relative_url }}">click here to open the CV (PDF)</a>.</p>
+<p>
+  <a href="{{ '/assets/pdf/reichlin_cv.pdf' | relative_url }}"
+     target="_blank"
+     rel="noopener">
+    Open CV (PDF)
+  </a>
+</p>
