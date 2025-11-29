@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Ph.D. student, alfrei@kth.se
+subtitle: alfrei@kth.se
 
 profile:
   align: right
@@ -19,9 +19,8 @@ announcements:
 
 ---
 
-I'm a last year Ph.D. student in the Robotics, Perception and Learning division of the Royal Institute of Technology (KTH) in Stockholm, Sweden.
+I’m a final-year PhD student in the Robotics, Perception and Learning division at KTH Royal Institute of Technology in Stockholm, Sweden. I’m broadly interested in machine learning for decision-making and control.
 
-My work focuses on representation learning from data of interactions and its properties. Applications include: reinforcement learning, multimodal representations, meta-learning and Bayesian neural networks.
+My research focuses on representation learning from interaction data, with an emphasis on their properties. Applications include: reinforcement learning, multimodal representations, meta-learning and Bayesian neural networks.
 
-For more information check out my Ph.D. thesis (work in progress):
-[Download Thesis (PDF)]({{ "/assets/pdf/thesis.pdf" | relative_url }}).
+For more details, see my PhD [thesis]({{ "/assets/pdf/thesis.pdf" | relative_url }}) (work in progress).
