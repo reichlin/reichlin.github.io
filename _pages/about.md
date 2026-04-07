@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: alfrei@kth.se
+subtitle: alfredo.reichlin@gmail.com
 
 profile:
   align: right
@@ -19,8 +19,8 @@ announcements:
 
 ---
 
-I’m a final-year PhD student in the Robotics, Perception and Learning division at KTH Royal Institute of Technology in Stockholm, Sweden. I’m broadly interested in machine learning for decision-making and control.
+I’m a recent PhD graduate in the Robotics, Perception and Learning division at KTH Royal Institute of Technology in Stockholm, Sweden. I’m broadly interested in machine learning for decision-making and control.
 
 My research focuses on representation learning from interaction data, with an emphasis on their properties. Applications include: reinforcement learning, multimodal representations, meta-learning and Bayesian neural networks.
 
-For more details, see my PhD [thesis]({{ "/assets/pdf/thesis.pdf" | relative_url }}) (work in progress).
+For more details, see my PhD [thesis]({{ "/assets/pdf/thesis.pdf" | relative_url }}).
